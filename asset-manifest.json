@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a3ea564.css",
-    "main.js": "/static/js/main.99ea34f3.js",
+    "main.css": "/static/css/main.38650f22.css",
+    "main.js": "/static/js/main.84b0a64f.js",
     "static/js/592.7881a785.chunk.js": "/static/js/592.7881a785.chunk.js",
     "static/media/PureWaterNZ-Login.png": "/static/media/PureWaterNZ-Login.8f8edb435ce225a381d7.png",
     "static/media/AVCProject3.jpeg": "/static/media/AVCProject3.4c187d7875480e4e92c1.jpeg",
@@ -64,12 +64,12 @@
     "static/media/Avatar-2.png": "/static/media/Avatar-2.f3bdb851e2a81ac9ad1f.png",
     "static/media/Avatar-2-orange.png": "/static/media/Avatar-2-orange.19425150dd06305614a6.png",
     "index.html": "/index.html",
-    "main.9a3ea564.css.map": "/static/css/main.9a3ea564.css.map",
-    "main.99ea34f3.js.map": "/static/js/main.99ea34f3.js.map",
+    "main.38650f22.css.map": "/static/css/main.38650f22.css.map",
+    "main.84b0a64f.js.map": "/static/js/main.84b0a64f.js.map",
     "592.7881a785.chunk.js.map": "/static/js/592.7881a785.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9a3ea564.css",
-    "static/js/main.99ea34f3.js"
+    "static/css/main.38650f22.css",
+    "static/js/main.84b0a64f.js"
   ]
 }
