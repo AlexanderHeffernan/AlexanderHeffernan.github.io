@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e2ffb1ee.css",
-    "main.js": "/static/js/main.c1dbbd24.js",
+    "main.js": "/static/js/main.856b3af0.js",
     "static/js/592.7881a785.chunk.js": "/static/js/592.7881a785.chunk.js",
     "static/media/PureWaterNZ-Login.png": "/static/media/PureWaterNZ-Login.8f8edb435ce225a381d7.png",
     "static/media/AVCProject3.jpeg": "/static/media/AVCProject3.4c187d7875480e4e92c1.jpeg",
@@ -43,7 +43,7 @@
     "static/media/DeathWave1.png": "/static/media/DeathWave1.6221dd12965c8acb2264.png",
     "static/media/BusNetworks1.png": "/static/media/BusNetworks1.a49500135a2ee540e6db.png",
     "static/media/RFM-LibraryPage.png": "/static/media/RFM-LibraryPage.236ee52123229d3bc93c.png",
-    "static/media/background.png": "/static/media/background.98a124e73a0ac8d03ab3.png",
+    "static/media/background.png": "/static/media/background.b2a298e03b609c0aea3c.png",
     "static/media/DeathWave4.png": "/static/media/DeathWave4.c6fa131acd14fd5cb975.png",
     "static/media/RFM-ArtistPage.png": "/static/media/RFM-ArtistPage.5ee03fc83fb33ea3315a.png",
     "static/media/RFM-ExplorePage.png": "/static/media/RFM-ExplorePage.0d5281aaba6c95ffc74e.png",
@@ -68,11 +68,11 @@
     "static/media/Avatar-2-orange.png": "/static/media/Avatar-2-orange.19425150dd06305614a6.png",
     "index.html": "/index.html",
     "main.e2ffb1ee.css.map": "/static/css/main.e2ffb1ee.css.map",
-    "main.c1dbbd24.js.map": "/static/js/main.c1dbbd24.js.map",
+    "main.856b3af0.js.map": "/static/js/main.856b3af0.js.map",
     "592.7881a785.chunk.js.map": "/static/js/592.7881a785.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2ffb1ee.css",
-    "static/js/main.c1dbbd24.js"
+    "static/js/main.856b3af0.js"
   ]
 }
