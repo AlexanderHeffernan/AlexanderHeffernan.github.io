@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.e12e4bfc.css",
-    "main.js": "/static/js/main.83dbad63.js",
+    "main.js": "/static/js/main.c3f60c7f.js",
     "static/js/592.7881a785.chunk.js": "/static/js/592.7881a785.chunk.js",
+    "static/media/Avatar-2-orange.png": "/static/media/Avatar-2-orange.a84abdaae1ca2dcb5838.png",
     "static/media/PureWaterNZ-Login.png": "/static/media/PureWaterNZ-Login.8f8edb435ce225a381d7.png",
-    "static/media/Avatar-2-orange.png": "/static/media/Avatar-2-orange.96492d9ce088340965a3.png",
-    "static/media/Avatar-2.png": "/static/media/Avatar-2.ecdef20b0783db74f76d.png",
     "static/media/AVCProject3.jpeg": "/static/media/AVCProject3.4c187d7875480e4e92c1.jpeg",
     "static/media/HomeStagedIT11.png": "/static/media/HomeStagedIT11.140244b21335f281f76a.png",
     "static/media/AVCProject2.jpeg": "/static/media/AVCProject2.152d6ae5ef04236cec62.jpeg",
@@ -17,6 +16,7 @@
     "static/media/WingedWarfare2.png": "/static/media/WingedWarfare2.387088df58022c4d6552.png",
     "static/media/LoneWolf16.png": "/static/media/LoneWolf16.695eab49df53d260ad4a.png",
     "static/media/LoneWolf17.png": "/static/media/LoneWolf17.085e67afa8a2ab15899f.png",
+    "static/media/Avatar-2.png": "/static/media/Avatar-2.57d9e25101dc14fbb047.png",
     "static/media/XRBWebsite1.png": "/static/media/XRBWebsite1.bf38d00efb1fccb63bdc.png",
     "static/media/LoneWolf19.png": "/static/media/LoneWolf19.6a9a0b53fb11c63ad855.png",
     "static/media/WingedWarfare7.png": "/static/media/WingedWarfare7.fb822e0d2181535351a1.png",
@@ -96,11 +96,11 @@
     "static/media/scroll-down-arrow.gif": "/static/media/scroll-down-arrow.dc433f825b7ad3163aad.gif",
     "index.html": "/index.html",
     "main.e12e4bfc.css.map": "/static/css/main.e12e4bfc.css.map",
-    "main.83dbad63.js.map": "/static/js/main.83dbad63.js.map",
+    "main.c3f60c7f.js.map": "/static/js/main.c3f60c7f.js.map",
     "592.7881a785.chunk.js.map": "/static/js/592.7881a785.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e12e4bfc.css",
-    "static/js/main.83dbad63.js"
+    "static/js/main.c3f60c7f.js"
   ]
 }
